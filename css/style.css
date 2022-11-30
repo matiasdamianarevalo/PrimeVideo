@@ -159,3 +159,9 @@ footer{
     display: none;
   }
 }
+.card-link{
+  color: #0F79AF;
+}
+.card-link:hover{
+  color: #106a97;
+}
